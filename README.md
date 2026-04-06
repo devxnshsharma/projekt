@@ -22,7 +22,7 @@ It allows schools to store, search, and manage students' medical records, includ
 ### 2. Installation
 ```bash
 # Clone/navigate to project directory
-cd projekt
+cd student-health-projekt
 
 # Install dependencies
 pip install -r requirements.txt
@@ -68,7 +68,7 @@ python main.py
 ## Project Structure
 
 ```
-projekt/
+student-health-projekt/
 ├── main.py              # Application entry point
 ├── db.py                # Database operations
 ├── models.py            # Data models (CRUD)
